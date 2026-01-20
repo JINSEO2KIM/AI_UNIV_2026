@@ -1,12 +1,11 @@
-## Task 1
+Task 1
+1. Collect raw data using the code IMU_SD_serialtrigger.ino
+2. Perform Data Analysis using m5imu_data_analysis.py
+3. What does the above program do?
 
-###1. Collect raw data using the code IMU_SD_serialtrigger.ino
-###2. Perform Data Analysis using m5imu_data_analysis.py
-###3. What does the above program do?
-
-##Task 2
-
-###Collect smooth data using the code IMU_SD_ST_AGEQ.ino for a slow-moving action. What does the program do? Estimate the roll using the below methods and perform comparison to the ground-truth – How is ground-truth evaluated?
+Task 2
+Collect smooth data using the code IMU_SD_ST_AGEQ.ino for a slow-moving action. 
+What does the program do? Estimate the roll using the below methods and perform comparison to the ground-truth – How is ground-truth evaluated?
 
 Linear Regression
 Non-Linear Regression
